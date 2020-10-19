@@ -9,7 +9,7 @@ $GroupId = (Get-Team -DisplayName $TeamDisplayName).GroupId
 $Invitations = Import-Csv -Path '.\PendingAcceptance.csv'
 #$Invitations | Select-Object -First 5
 
-#Upon succussful invite acceptance, redirect the user to this location (link to team including tenantId parameter).
+#Upon successful invite acceptance, redirect the user to this location (link to team including tenantId parameter).
 $InviteRedirectUrl = 'https://aka.my/conf2020team'
 
 ####### Main Code #######
