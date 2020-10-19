@@ -12,7 +12,7 @@ $Invitations = Import-Csv -Path '.\BulkInviteUsers.csv'
 
 #Text that will appear in the invite email
 $InviteMsg = 'Hi, attendee. Please click Accept invitation to setup your Guest Account to access the conference venue. You can find more information at: https://aka.my/conf2020info'
-#Upon succussful invite acceptance, redirect the user to this location (link to team including tenantId parameter).
+#Upon successful invite acceptance, redirect the user to this location (link to team including tenantId parameter).
 $InviteRedirectUrl = 'https://aka.my/conf2020team'
 
 ####### Main Code #######
@@ -34,11 +34,6 @@ foreach ($email in $Invitations) {
         SendInvitationMessage   = $true;
         InvitedUserType         = 'Guest';
     }
-    $Params2 = @{
-        InvitedUserEmailAddress = $email.EmailAddress;
-        InviteRedirectUrl       = $InviteRedirectUrl;
-        SendInvitationMessage   = $true;
-    }
     try {
         Write-Output "Inviting: $($email.EmailAddress)"
         $NewInvite = New-AzureADMSInvitation @Params
@@ -53,8 +48,8 @@ foreach ($email in $Invitations) {
 
 #Add invited users to the team
 $NewMembers = Import-Csv $InvitedFile
-$NewMembers | Where-Object { $_.Status -ne "FAILED" } | 
-    ForEach-Object { 
+$NewMembers | Where-Object { $_.Status -ne "FAILED" } |
+    ForEach-Object {
         Add-TeamUser -GroupId $GroupId -User $_.UserId -Role Member
     }
 
