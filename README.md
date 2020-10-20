@@ -22,6 +22,10 @@ Example: Get-Item "Poster_\*.pdf" | % {.\\xpdf-tools\\bin64\\pdftopng.exe -q $_.
 
 [VB-CABLE](https://vb-audio.com/Cable/index.htm) - a virtual audio device working as virtual audio cable - useful in OBS for audio output from a prerecorded video
 
+[Greenshot](https://getgreenshot.org/) - screen capture software
+
+[ScreenToGif](https://www.screentogif.com/) - Screen, webcam and sketchboard recorder with an integrated editor with output to GIF or MP4
+
 ## Useful Sites and Services
 
 [PowerPoint morph transition](https://support.microsoft.com/en-us/office/use-the-morph-transition-in-powerpoint-8dd1c7b2-b935-44f5-a74c-741d8d9244ea) - animate smooth movement from one slide to the next
