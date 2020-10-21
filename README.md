@@ -42,3 +42,9 @@ Graphics inspirations: [unDraw](https://undraw.co/) | [humaaans](https://www.hum
 | [Unsplash](https://unsplash.com/) | [Pexels](https://www.pexels.com/) | [NoDesign.dev](https://nodesign.dev/)
 
 YouTube video download - just change the domain in the URL from youtube.com to youtubepp.com
+
+## Attendee Overview and Presenter Training Videos
+
+[Attendee](https://www.youtube.com/watch?v=7ktVZfbPywQ) - conference experience overview for attendees
+
+[Presenter](https://www.youtube.com/watch?v=Ayt5lsjUskg) - presenter's experience for presenting their work
