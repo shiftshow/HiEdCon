@@ -34,7 +34,11 @@ Example: Get-Item "Poster_\*.pdf" | % {.\\xpdf-tools\\bin64\\pdftopng.exe -q $_.
 
 [PowerPoint sharing in Teams](https://support.microsoft.com/en-us/office/tip-show-powerpoint-slides-in-a-meeting-ddfc73dd-b957-4f2b-8e42-ce078f51873c) - Save bandwidth [up to 90%](<https://aka.my/pptbandwidth>)
 
+[Live Events best practices](https://aka.ms/live-events-best-practices) - document from the Microsoft Education Engineering Engagement Team
+
 [Aka.my](https://aka.my/) URL Shortener - inexpensive for feature allowing changing target URL of a short URL (helpful for live event links to external attendees)
 
 Graphics inspirations: [unDraw](https://undraw.co/) | [humaaans](https://www.humaaans.com/) | [blackillustrations](https://www.blackillustrations.com/) | [lukaszadam](https://lukaszadam.com/illustrations)
 | [Unsplash](https://unsplash.com/) | [Pexels](https://www.pexels.com/) | [NoDesign.dev](https://nodesign.dev/)
+
+YouTube video download - just change the domain in the URL from youtube.com to youtubepp.com
