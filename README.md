@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/72571847/96679270-55e7f900-1341-11eb-852e-9c142a5cc028.png" width="90%"></img>
+
 # HiEdCon
 Shared material for the Microsoft in Higher Education Conference 2020
 
