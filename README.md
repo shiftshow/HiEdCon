@@ -1,6 +1,7 @@
 <img src="https://user-images.githubusercontent.com/72571847/96679270-55e7f900-1341-11eb-852e-9c142a5cc028.png" width="90%"></img>
 
 # HiEdCon
+
 Shared material for the Microsoft in Higher Education Conference 2020
 
 ## Contacts
@@ -8,6 +9,10 @@ Shared material for the Microsoft in Higher Education Conference 2020
 Dewayne Hyatt - [https://www.linkedin.com/in/dewaynehyatt/](https://www.linkedin.com/in/dewaynehyatt/)
 
 Joe Gasper - [https://www.linkedin.com/in/joegasper/](https://www.linkedin.com/in/joegasper/)
+
+## Slide Deck
+
+[Hosting Online Conferences and Symposiums using Microsoft Teams](https://uflorida-my.sharepoint.com/:p:/g/personal/dehyatt_ufl_edu/ETxjl4RPz3dEj5sGfRMi_7AB9w74z25TvM-YufXBEdMUyA?e=hZrjVU)
 
 ---
 ## Useful Tools
