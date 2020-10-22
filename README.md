@@ -3,6 +3,12 @@
 # HiEdCon
 Shared material for the Microsoft in Higher Education Conference 2020
 
+## Contacts
+
+Dewayne Hyatt - [https://www.linkedin.com/in/dewaynehyatt/](https://www.linkedin.com/in/dewaynehyatt/)
+
+Joe Gasper - [https://www.linkedin.com/in/joegasper/](https://www.linkedin.com/in/joegasper/)
+
 ---
 ## Useful Tools
 
