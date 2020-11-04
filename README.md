@@ -10,9 +10,9 @@ Dewayne Hyatt - [https://www.linkedin.com/in/dewaynehyatt/](https://www.linkedin
 
 Joe Gasper - [https://www.linkedin.com/in/joegasper/](https://www.linkedin.com/in/joegasper/)
 
-## Slide Deck
+## Conference Session Recording and Slide Deck
 
-[Hosting Online Conferences and Symposiums using Microsoft Teams](https://uflorida-my.sharepoint.com/:p:/g/personal/dehyatt_ufl_edu/ETxjl4RPz3dEj5sGfRMi_7AB9w74z25TvM-YufXBEdMUyA?e=hZrjVU)
+Hosting Online Conferences and Symposiums using Microsoft Teams - [Recording (YouTube)](https://www.youtube.com/watch?v=0Z8c1FaxtHY) | [Slide deck (PowerPoint)](https://uflorida-my.sharepoint.com/:p:/g/personal/dehyatt_ufl_edu/ETxjl4RPz3dEj5sGfRMi_7AB9w74z25TvM-YufXBEdMUyA?e=hZrjVU)
 
 ---
 ## Useful Tools
