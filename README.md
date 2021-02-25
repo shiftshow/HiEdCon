@@ -18,7 +18,7 @@ Hosting Online Conferences and Symposiums using Microsoft Teams - [Recording (Yo
 
 ## Our Microsoft Case Study
 
-NACAA Organization Online Conference Hosting in Microsoft Teams - [Case Study](https://customers.microsoft.com/en-us/story/1333487105732527324-uf-ifas-higher-education-microsoft365-en-united-states)
+NACAA Organization Online Conference Hosting in Microsoft Teams - [Case Study](https://github.com/shiftshow/HiEdCon)
 
 >When it looked like the annual meeting of county extension agents from US land-grant universities would be canceled, UF/IFAS stepped up to stage the event in Teams and successfully hosted more than 1,300 attendees from across the country.
 
