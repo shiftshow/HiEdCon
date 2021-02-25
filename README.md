@@ -15,6 +15,15 @@ Joe Gasper - [https://www.linkedin.com/in/joegasper/](https://www.linkedin.com/i
 Hosting Online Conferences and Symposiums using Microsoft Teams - [Recording (YouTube)](https://www.youtube.com/watch?v=0Z8c1FaxtHY) | [Slide deck (PowerPoint)](https://uflorida-my.sharepoint.com/:p:/g/personal/dehyatt_ufl_edu/ETxjl4RPz3dEj5sGfRMi_7AB9w74z25TvM-YufXBEdMUyA?e=hZrjVU)
 
 ---
+
+## Our Microsoft Case Study
+
+NACAA Organization Online Conference Hosting in Microsoft Teams - [Case Study](https://customers.microsoft.com/en-us/story/1333487105732527324-uf-ifas-higher-education-microsoft365-en-united-states)
+
+>When it looked like the annual meeting of county extension agents from US land-grant universities would be canceled, UF/IFAS stepped up to stage the event in Teams and successfully hosted more than 1,300 attendees from across the country.
+
+---
+
 ## Useful Tools
 
 [Sizer](http://www.brianapps.net/sizer/) - resize any window to an exact, predefined size (i.e., 1920x1080)
